@@ -19,7 +19,7 @@
 
 ## 🛠️ Skills & Technologies
 
-`Python` `SQL` `Tableau` `Snowflake` `AWS` `Pyomo` `scikit-learn` `Microsoft Excel`
+`Python` `SQL` `Power BI` `Tableau` `Snowflake` `AWS` `Azure Analytics Services` `Google Analytics`  `Microsoft Excel` 
 `UiPath` `Celonis` `Lucidchart` `RPA` `Data Modeling` `EDA` `Dashboards`
 
 ---
