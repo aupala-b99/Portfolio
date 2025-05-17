@@ -1,5 +1,5 @@
 ### Hi, I'm Aupala
-![Photo](./Photo.png)
+![Photo](./Me.png)
 
 ## 🔍 What I’m Working On
 - Uploading and documenting my **analytics projects** across ML, cloud, SQL, and RPA.
