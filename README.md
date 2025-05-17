@@ -1,7 +1,5 @@
 ### Hi, I'm Aupala
-![Photo](./Me.png)
-
-<img src="https://github.com/aupala-b99/Portfolio/blob/main/Me.jpg?raw=true" alt="Me" width="300"/>
+<img src="https://github.com/aupala-b99/Portfolio/blob/main/Me.png?raw=true" alt="Me" width="300"/>
 
 
 ## 🔍 What I’m Working On
