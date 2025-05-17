@@ -1,6 +1,9 @@
 ### Hi, I'm Aupala
 <img src="https://github.com/aupala-b99/Portfolio/blob/main/Me.png?raw=true" alt="Me" width="300"/>
 
+I'm a results-driven Business Analyst with over 3 years of experience in data analytics, reporting automation, and process optimization. Currently pursuing my Master’s in Business Analytics at the Wisconsin School of Business, I specialize in transforming complex datasets into actionable insights that drive strategic decisions.
+
+My background spans global supply chain analytics, marketing data analysis, and predictive modeling. I’ve built and deployed full-stack ETL pipelines on AWS, developed Power BI dashboards to optimize procurement strategies, and used SQL, Python, and Excel to streamline workflows and enhance data accuracy.
 
 ## 🔍 What I’m Working On
 - Uploading and documenting my **analytics projects** across ML, cloud, SQL, and RPA.
@@ -24,3 +27,8 @@
 `UiPath` `Celonis` `Lucidchart` `RPA` `Data Modeling` `EDA` `Dashboards`
 
 ---
+📊 **Industries**:  
+Supply Chain | Marketing | Digital Education | Manufacturing | Consulting
+
+---
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/aupala-bhattacharyya)
