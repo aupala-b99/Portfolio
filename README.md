@@ -30,6 +30,6 @@ My background spans global supply chain analytics, marketing data analysis, and 
 
 ---
 📊 **Industries**:  
-Supply Chain | Marketing | Digital Education | Manufacturing | Consulting
+Supply Chain | Digital Marketing | Manufacturing | Consulting
 
 ---
