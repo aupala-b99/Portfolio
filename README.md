@@ -1,5 +1,5 @@
 ### Hi, I'm Aupala
-<img src="https://github.com/aupala-b99/Portfolio/blob/main/Me.png?raw=true" alt="Me" width="300"/>
+
 
 I'm a results-driven Business Analyst with over 3 years of experience in data analytics, reporting automation, and process optimization. Currently pursuing my Master’s in Business Analytics at the Wisconsin School of Business, I specialize in transforming complex datasets into actionable insights that drive strategic decisions.
 
