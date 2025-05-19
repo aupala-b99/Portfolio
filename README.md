@@ -31,4 +31,3 @@ My background spans global supply chain analytics, marketing data analysis, and 
 Supply Chain | Marketing | Digital Education | Manufacturing | Consulting
 
 ---
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/aupala-bhattacharyya)
