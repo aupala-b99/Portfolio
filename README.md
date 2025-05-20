@@ -20,7 +20,7 @@ My background spans global supply chain analytics, marketing data analysis, and 
 | [Bankruptcy Prediction on AWS Cloud](https://github.com/aupala-b99/Bankruptcy_Prediction) | AWS (S3, Glue, Redshift, SageMaker) | Built a cloud-native pipeline for bankruptcy prediction |
 | [Customer Churn App](https://github.com/aupala-b99/Customer_Churn_App) | Snowflake, Python, Streamlit | Built a Streamlit application connected to Snowflake for customer churn analysis |
 | [Invoicing Process Automation](https://github.com/aupala-b99/Invoicing-Process-Automation) | Lucidchart, Celonis, UiPath | Performed process mining, mapping, and RPA to streamline the invoicing step in the Order-to-Cash process |
-| [Lodging Proximity and Yelp Restaurant Reviews](https://github.com/Lodging%20Proximity%20and%20Yelp Restaurant Reviews) | SQL, Python, OLS Regression, Power BI, Geopy, REST APIs | Analyzed how distance from hotels and vacation rentals affects Yelp restaurant reviews and ratings through geospatial analysis and regression models |
+| [Lodging Proximity and Yelp Restaurant Reviews](https://github.com/aupala-b99/Lodging-Proximity-and-Yelp-Restaurant-Reviews) | SQL, Python, OLS Regression, Power BI, Geopy, REST APIs | Analyzed how distance from hotels and vacation rentals affects Yelp restaurant reviews and ratings through geospatial analysis and regression models |
 
 
 ## 🛠️ Skills & Technologies
